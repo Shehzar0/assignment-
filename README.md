@@ -1,4 +1,4 @@
-# assignment-2
+# assignment-3
 /*QUESTION-1
 
 function addNumberTo(num){
